@@ -1,7 +1,10 @@
 ## Hi there 🧔🏾
 
 I'm Diego Silva, and I am a Community Manager at [@99juniors](https://github.com/99juniors) and Frontend Developer with experience in:
-![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%23ED145B) ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%23ED145B)
+
+![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%23ED145B)
+![typescript](https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%23ED145B)
+![typescript](https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%23ED145B)
 
 ReactJS, JavaScript, UX and UI.
 
