@@ -6,7 +6,7 @@ I'm Diego Silva, and I am a Frontend Developer with experience in ReactJS, JavaS
 [![twitch](https://img.shields.io/badge/twitch-@diegosilvatech-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/diegosilvatech)
 [![linkedin](https://img.shields.io/badge/linkedin-@diegosilvatech-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/diegosilvatech)
 
-![diegosilvatech github stats](https://github-readme-stats.vercel.app/api?username=diegosilvatech&count_private=true&hide=issues,contribs&show_icons=true&title_color=ED145B&icon_color=ED145B&text_color=000000&bg_color=171717)
+![diegosilvatech github stats](https://github-readme-stats.vercel.app/api?username=diegosilvatech&count_private=true&hide=issues,contribs&show_icons=true&title_color=ED145B&icon_color=ED145B&text_color=FFFFFF&bg_color=171717)
 
 - 🔭 I’m currently working on [Yellow Space Stone](https://www.linkedin.com/company/yellowspacestone/)
 - 🌱 I’m currently studying NextJS, Strapi and Tests
