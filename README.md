@@ -14,7 +14,7 @@ I'm Diego Silva, Community Manager at [@99juniors](https://github.com/99juniors)
 
 ## Follow my work at:
 
-[![linkedin](https://img.shields.io/badge/linkedin-@diegosilvatech-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/diegosilvatech)
+[![linkedin](https://img.shields.io/badge/linkedin-@diegosilvatech-0e76a8?style=for-the-badge&logo=linkedinlogoColor=%230e76a8)](https://linkedin.com/in/diegosilvatech)
 [![twitch](https://img.shields.io/badge/twitch-@diegosilvatech-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/diegosilvatech)
 [![youtube](https://img.shields.io/badge/youtube-@diegosilvatech-cc0000?style=for-the-badge&logo=youtube&logoColor=%23cc0000)](https://www.youtube.com/channel/UCECVV8ODiaQtur7EyS73i1g/videos)
 [![linktree](https://img.shields.io/badge/linktree-@diegosilvatech-11c76f?style=for-the-badge&logo=linktree)](https://linktr.ee/diegosilvatech)
