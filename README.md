@@ -1,6 +1,9 @@
 ## Hi there 🧔🏾
 
-I'm Diego Silva, and I am a Frontend Developer with experience in ReactJS, JavaScript, UX and UI.
+I'm Diego Silva, and I am a Community Manager at [@99juniors](https://github.com/99juniors) and Frontend Developer with experience in:
+![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%23ED145B) ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%23ED145B)
+
+ReactJS, JavaScript, UX and UI.
 
 [![made by @diegosilvatech](https://img.shields.io/badge/made%20by-Diego%20Silva-ED145B?style=for-the-badge)](https://linktr.ee/diegosilvatech)
 [![twitch](https://img.shields.io/badge/twitch-@diegosilvatech-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/diegosilvatech)
