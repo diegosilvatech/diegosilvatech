@@ -12,7 +12,7 @@ I'm Diego Silva, Community Manager at [@99juniors](https://github.com/99juniors)
 
 ---
 
-## Follow my work at:
+## Follow my work
 
 [![linkedin](https://img.shields.io/badge/linkedin-@diegosilvatech-0e76a8?style=for-the-badge&logo=linkedin&logoColor=%230e76a8)](https://linkedin.com/in/diegosilvatech)
 [![twitch](https://img.shields.io/badge/twitch-@diegosilvatech-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/diegosilvatech)
